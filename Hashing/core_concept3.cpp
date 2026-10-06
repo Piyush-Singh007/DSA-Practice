@@ -14,10 +14,6 @@ int main(){
         mp[arr[i]]++;
     }
 
-    //iteratin in map
-    for(auto it:mp){
-        cout<<mp.first<<"->"<<mp.second<<endl;
-    }
     
     //fetching
     int q;
